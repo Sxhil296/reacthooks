@@ -1,11 +1,12 @@
-import HookComponentThree from "./components/HookComponentThree";
+import HookEffect1 from "./components/HookEffect1";
+import HookMouse from "./components/HookMouse";
 
 
 
 function App() {
   return (
     <div className="App">
-      <HookComponentThree />
+      <HookMouse />
     </div>
   );
 }
